@@ -446,6 +446,18 @@ Button-Styles
     display: flex;
     align-items: center;
 }
+
+.header-error-area {
+    padding-top: 50px;
+    padding-bottom: 1px;
+    z-index: 1;
+    overflow: hidden;
+    min-height: calc(100vh - 40px);
+    display: flex;
+    align-items: center;
+}
+
+
 #particles-js {
     position: absolute;
     left: 0;
@@ -480,6 +492,18 @@ Button-Styles
     width: 100%;
     height: 100%;
     background-color: #558bff;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.header-error-area:after {
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #00217a;
     opacity: 0.5;
     z-index: -1;
 }
