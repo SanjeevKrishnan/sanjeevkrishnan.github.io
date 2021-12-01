@@ -1,0 +1,2459 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="54"><page Index="1"><![CDATA[]]></page><page Index="2"><![CDATA[Table of Contents
+
+               1.   Table of Contents ............................................................................................................................ 1
+               2.   List of Figures .................................................................................................................................. 2
+
+               3.   List of Tables ................................................................................................................................... 3
+               4.   EXECUTIVE SUMMARY ..................................................................................................................... 4
+
+               5.   TEAM INTRODUCTION ..................................................................................................................... 5
+               6.   PROJECT BACKGROUND ................................................................................................................... 6
+
+               7.   PERFORMANCE SPECIFICATIONS ...................................................................................................... 7
+               8.   GOALS ............................................................................................................................................. 8
+
+               9.   DOCUMENTATION OF DESIGN PROCESS .......................................................................................... 9
+               10.    DESIGN DOCUMENTATION ......................................................................................................... 11
+                  a.   Energy Performance ................................................................................................................... 11
+
+                  b.   Water Performance .................................................................................................................... 15
+                  c.   Resilience ................................................................................................................................... 20
+
+                  d.   Affordability ............................................................................................................................... 23
+                  e.   Innovation .................................................................................................................................. 24
+
+                  f.   Scalability and Market Potential ................................................................................................. 26
+                  g.   Comfort and Environment Quality .............................................................................................. 28
+
+                  h.   Architecture Design .................................................................................................................... 33
+                  i.   Engineering Design and Operation .............................................................................................. 38
+               11.    PITCH YOUR PROJECT PARTNER .................................................................................................. 50
+
+               12.    APPENDIX ................................................................................................................................... 52]]></page><page Index="3"><![CDATA[1.  List of Figures
+
+
+               Figure 1: Space Requirements ....................................................................................................................... 9
+               Figure 2: Proximity Map ................................................................................................................................ 9
+               Figure 3: Bubble Diagram ............................................................................................................................ 10
+               Figure 4: North Facade ................................................................................................................................ 10
+               Figure 5: South Facade ................................................................................................................................ 10
+               Figure 6: Final Plan Layout (Ground Floor) .................................................................................................. 10
+               Figure 7: Monthly PV System Output Graph ............................................................................................... 11
+               Figure 8: Cooling Electricity Consumption ................................................................................................... 12
+               Figure 9: Ground Floor Daylight Simulation ................................................................................................ 13
+               Figure 10: North Facade .............................................................................................................................. 14
+               Figure 11: South Façade .............................................................................................................................. 14
+               Figure 12: Water Flow Diagram ................................................................................................................... 16
+               Figure 13: Positive water loop diagram ....................................................................................................... 16
+               Figure 14: Water Collection Area-breakup .................................................................................................. 17
+               Figure 15: On-site water loop integration diagram ..................................................................................... 17
+               Figure 16: Waterbody integrated recharge pit. ........................................................................................... 18
+               Figure 17: 360-degree movement of flow for breaking storm-speed and sedimentation chamber ........... 18
+               Figure 18: Toilet layout ................................................................................................................................ 19
+               Figure 19: Seismic Zonation and Intensity Map of India .............................................................................. 20
+               Figure 20: Fire Evacuation Plan ................................................................................................................... 22
+               Figure 21: Building Fire Zoning .................................................................................................................... 22
+               Figure 22: Typical Architecture of BAS ........................................................................................................ 24
+               Figure 23: Stage of precast construction ..................................................................................................... 26
+               Figure 24: Advantages of precast construction ........................................................................................... 27
+               Figure 25: South and West annual radiation analysis .................................................................................. 28
+               Figure 26: North and East annual radiation analysis ................................................................................... 28
+               Figure 27: Solar radiation on the North building envelope ......................................................................... 28
+               Figure 28: Solar radiation on the South building envelope ......................................................................... 28
+               Figure 29: Facade design details with optimized shading ........................................................................... 29
+               Figure 30: south façade with optimized shading devices ............................................................................ 29
+               Figure 31: North facade with glazing ........................................................................................................... 29
+               Figure 32: Light shelf for deep penetration of light ..................................................................................... 29
+               Figure 33: Double Glazed Window Details .................................................................................................. 29
+               Figure 34: Wall assembly section ................................................................................................................ 30
+               Figure 35: Wall assembly Layers .................................................................................................................. 30
+               Figure 36: Annual Discomfort hours with and without the use of Refrigerant based cooling. .................... 30
+               Figure 37: HVAC System Section Diagram ................................................................................................... 31
+               Figure 38: Concept Design ........................................................................................................................... 33
+               Figure 39: South Elevation ........................................................................................................................... 33
+               Figure 40: North elevation .......................................................................................................................... 33
+               Figure 41: Birds eye view from southern side ............................................................................................. 34
+               Figure 42: View form South-East ................................................................................................................. 34]]></page><page Index="4"><![CDATA[Figure 43: View from North-west ................................................................................................................ 35
+               Figure 44: View from North-east ................................................................................................................. 35
+               Figure 45: Ground Floor Plan ...................................................................................................................... 36
+               Figure 46: First Floor Plan ............................................................................................................................ 36
+               Figure 47: Second Floor Plan ....................................................................................................................... 36
+               Figure 48: Third Floor Plan .......................................................................................................................... 37
+               Figure 49: Fourth Floor Plan ........................................................................................................................ 37
+               Figure 50: Fifth Floor Plan ........................................................................................................................... 37
+               Figure 51: View of Structural elements ....................................................................................................... 38
+               Figure 52: Column and slab section............................................................................................................. 39
+               Figure 53: Column and slab plan ................................................................................................................. 39
+               Figure 54: Column and drop panel details ................................................................................................... 40
+               Figure 55: Footing section ........................................................................................................................... 40
+               Figure 56: Building Structural Layouts ......................................................................................................... 42
+               Figure 57: Thermally Activated Building Systems (TABS): ........................................................................... 46
+               Figure 58: Flow in typical DOAS ................................................................................................................... 46
+               Figure 59: HVAC System Design Load and System Sizing Summary ............................................................ 47
+               Figure 60: HVAC Single Line Diagram - Section ........................................................................................... 48
+               Figure 61: HVAC Single Line Diagram - Plan ................................................................................................ 48
+               Figure 62: Electrical Single Line Diagram ..................................................................................................... 49
+               Figure 63: Orientation and Envelop Analysis from initial design stages ...................................................... 50
+               Figure 64: Facade fenestration and envelope optimization through shading and reducing window-wall
+               ratio. ............................................................................................................................................................ 51
+               Figure 65: Water Cycle, Collection and Demand ......................................................................................... 51
+
+
+               2.  List of Tables
+
+               Table 1: Team Summary ................................................................................................................................ 5
+               Table 2: Monthly PV Output ........................................................................................................................ 11
+               Table 3: Building Monthly Electricity Consumption ..................................................................................... 12
+               Table 4: Spatial Daylight Autonomy............................................................................................................. 13
+               Table 5: Water Performance Goals Summary ............................................................................................. 15
+               Table 6: Building Materials .......................................................................................................................... 45]]></page><page Index="5"><![CDATA[3.  EXECUTIVE SUMMARY
+
+
+               Our team Navaritih aims to design an office building for global consulting and IT services company Infosys
+               limited at their Mohali campus. our main goal for this project is to design a net zero energy office
+               building. We aspire to develop techniques to design energy and water efficient, affordable and resilient
+               building with careful considerations to comfort, environmental quality and market potential. With
+               innovative techniques we strive to design consciously and optimize the space design, façade system, and
+               building management system.
+               Our goal was to design energy efficient building also to design a building which reduces Water usage
+               through Recycling of water by reduce, reuse and recycling methods, promotes onsite Energy generation
+               through Solar, Wind and Biomass Energy Sources, a resilient building which has the ability to reduce the
+               magnitude and/or duration of disruptive events.
+
+               Energy is required in a large quantity for the building operations for the period of their whole lives. About
+               40 % of the total energy is consumed by buildings. Key issues in sustainability are depletion of resources
+               and environmental pollution. It includes physical resources like fossil fuels, materials, and the human
+               resources, at this point in time, if we still rely on these materials, we will have a big problem in future
+               since we will no longer be able to extract enough material to meet the supply.
+
+               By using energy efficient techniques like efficient lighting design, optimized daylight, shading devices,
+               optimized orientation and shape through simulations on various software's and considering all the design
+               guidelines, we tried to provide a climate responsive and efficient design.
+
+               Special features of this building are windows having double glazed glass with low u value, Cavity walls
+               with insulation, hollow concrete blocks, Sun exposed roof is insulated, use of efficient plumbing fixtures
+               plus only recycled water is used for irrigation, lower flow rates in water taps and use of control systems,
+               installation of sensors and use locally available materials.]]></page><page Index="6"><![CDATA[4.  TEAM INTRODUCTION
+
+
+               Team Name: Navaritih
+               Institutions Name
+               o  Indian Institute of Technology Roorkee (Lead Institute)
+               o  National Institute of Technology Tiruchirappalli
+               Division: Office building
+
+               Team Members
+               S.No    Name                     Qualification           Role
+                                                        nd
+               1       Abhishek Palit           M.Arch 2  Yr  (IITR)    Team Leader, Energy Performance
+                                                        nd
+               2       Rajon Debnath            M.Arch 2  Yr  (IITR)    Architectural Design
+               3       Jagriti Kaushal          M.Arch 1 Yr  (IITR)     Affordability
+                                                        st
+                                                        st
+               4       Urmi Sarkar              M.Arch 1 Yr  (IITR)     Comfort and Environment Quality
+                                                        st
+               5       Aditya Anand             M.Arch 1 Yr  (IITR)     Water Performance
+                                                        st
+               6       Shrutiksha Shrivastav    M.Arch 1 Yr  (IITR)     Resilience
+               7       Sanjeev Krishnan R.      B.Arch 3rd Yr (IITR)    Innovation
+               8       Pranjal Agrawal          B.Arch 3rd Yr (IITR)    Resilience
+               9       Chanikya Kota            B.Tech 3rd Yr (IITR)    Engineering Design and Operation
+               10      Ashish Anand             B.Tech 4th Yr (IITR)    Scalability and Market Potential
+                                                        st
+               11      Priya Patel              M.Arch 1 Yr (NITT)      Architectural Design
+                                                     Table 1: Team Summary
+               Approach
+
+               Workflow in the team:
+               We have divided our team according to the 10 contests provided in the design brief, each team member
+               was provided with a contest according to their area of interest.  All team members are  free to give their
+               suggestions for the whole design process but their prime focus will be on the contest selected by them
+               .Each contest has a individual lead and the team is led by 2 team leaders who will manage the whole team
+               and motivate all the team members to achieve goals and develop the required skill set to get results.
+               Process:
+               After deciding our goals to design a Net zero energy water building, the process starts with site potential
+               analysis, location, orientation, climate analysis and consideration of other parameters which are required
+               to enhance the building design. We will incorporate energy use, water consumption, comfort, affordability,
+               resilience, technical aspects and all the contests given to us as challenges in design. By incorporating some
+               of the design features like prefabricated walls, solar passive design elements, radiant heating system, usage
+               of vernacular materials, rainwater harvesting system we aspire to achieve our goals.
+
+
+               Faculty Lead: Dr. Prabhjot Singh Chani]]></page><page Index="7"><![CDATA[5.  PROJECT BACKGROUND
+
+
+               a.  Project Name: Infosys, Mohali
+               b.  Project Partner:
+                   a.  Name of Organization: Infosys Limited
+                   b.  Background:  Infosys Limited, is a NYSE listed global consulting and IT services company in India,
+                       with  more  than  239k  employees  that  provide  global  leadership  in  digital  services,  business
+                       consulting and outsourcing services. Established in 1981, by seven engineers in Pune, Maharashtra,
+                       India. It has nine development centers in India and over 50 offices worldwide. In their journey of
+                       39 years, they have catalyzed some of the major changes which led to India's emergence as the
+                       global destination for software services talent. Infosys pioneered the Global Delivery Model and
+                       became the first IT Company from India to be listed on NASDAQ. Their employee stock options
+                       program    created   some    of    India's   first   salaried   millionaires.   (Reference:
+                       https://www.infosys.com/about/history.html)
+                   c.  Name  and  designation  of  key  individuals  involved:  Guruprakash  Sastry,  Regional  Head  –
+                       Infrastructure, Infosys Limited
+               c.  Brief discussion of Project:
+                       o  Location: Mohali, Phase- 1, Punjab
+                       o  Stage of the project: Design Stage
+                       o  Purpose: Build-Own-Operate
+                       o  Estimated total built up area: 18,605sq.m
+               d.  Special requirements of the Project Partner:
+                   o  Building Adheres to NBC 2016 Part 4 Fire and Safety Norms.
+                   o  Sewage to be treated 100% at site with zero discharge.
+                   o  Building Area Program: Modular planning, Flexible, Scalable, Defined circulation, Easy accessibility
+                       for pantry and space efficiency should be 90sft / person.
+                   o   Energy requirements:
+                               o EPI < 70 kWh/m2/year
+                               o LPD: 0.5 W/Sq ft
+                               o HVAC: 750 Sq ft/TR
+                               o Electrical: 3.5 W/Sq ft
+               e.  Context and Market Analysis
+                       The site is in Mohali (SAS Nagar) (SAS Nagar) Phase 1, Punjab. Mohali town was initially conceived
+                       as an Industrial town after reorganization of Punjab in 1966. Today, Chandigarh and SAS Nagar are
+                       joined with only the boundary of Punjab and Chandigarh UT separating the two from each other.
+                       The original plan of Mohali town is an extension of architectural pattern of Chandigarh.
+
+                       Infosys focuses on large enterprises who have IT budget and needs. Infosys is an India multinational
+                       corporation that provides business consulting, information technology and outsourcing services.
+                       Infosys has 82 sales and marketing offices and 123 development centers across the world as of 31
+                       March 2018, with major presence in India, United States, China, Australia, Japan, Middle East, and
+                       Europe.]]></page><page Index="8"><![CDATA[6.  PERFORMANCE SPECIFICATIONS
+
+
+               ➢  Climate Zone - Humid Subtropical Climate
+
+
+               ➢  Performance specifications:
+                  i.   Envelope
+
+                   Window Assembly – Double glazed (SunGard® extra Selective SNX 50) window with U-Value of 1
+                   W/m²k and low SHGC value 0.28 and VLT of 49.6%. Composition 6mm / 16 mm / 4 mm with Gap 1
+                   10% Air, 90% Argon.
+
+                   External Wall – We used a wall assembly which contains layers of Autoclaved Aerated Concrete (AAC)
+                   Blocks, interior and exterior plaster with XPS insulation of 79.50mm thickness with 100mm brick
+                   cladding. Wall U-Value - 0.350 W/m²k
+
+                   Roof Assembly – Reinforced cement concrete with plaster on both sides as double skin roof with
+                   insulation of glass wool is provided with 10mm asphalt coating. Roof U-Value - 0.250 W/m²k
+
+                 ii.   HVAC System
+
+                   System Type – Radiant Cooling – Thermally Activated Building System (TABS) coupled with Dedicated
+                   outdoor air system (DOAS). Energy Benchmark – 750 Sqft/TR
+                   COP – 3.6
+                 iii.   Lighting (LPD) – 0.5 W/sqft
+
+                 iv.   Electrical (EPD) – 3.5 W/sqft
+
+                 v.    Renewable energy
+                       System Type – Fixed (Open Rack)
+                       Generation Capacity - 391828.15 kWh
+
+                 vi.   Water systems
+
+                             Consumption reduction strategies
+
+                   •    Waterless urinals
+                   •    Efficient aerated faucets
+                   •    Efficient
+                   •    Use of municipal water and balance that consumption with ground water recharge.
+
+                   For controlling the groundwater recharge a water body is introduced which provides enough time for
+                   soaking up that amount of water and also control and store the water to be used in unfavorable
+                   conditions.
+                   Another system is introduced to break the speed of stormwater to settle down the dust and other
+                   suspended particles to the sedimentation chambers attached just after the speed breakers.]]></page><page Index="9"><![CDATA[7.  GOALS
+
+              i.    Energy performance
+                   Target Energy Use Intensity of less than 70 kWh/m2/year.
+                   Spatial daylight autonomy 300/50% of at least 50% of regularly occupied area.
+                   Lighting Power Density of 0.5 W/Sq.ft, HVAC Load of 750 Sq.ft/TR
+                   Electrical load of 3.5 W/Sq.ft
+              ii.   Water Performance
+                   Reduction of Water usage through Recycling of water through reduce, reuse and recycling.
+                   Average per capita consumption by NBC standard is 45ltr per head/day.
+                   By use of efficient fixtures, it can be achieved to 40ltr per head/day.
+                   Total consumption per head/day for 1500 capacity will be- 60000ltr per capita/day.
+                   Goal to achieve - 70% reduction in freshwater consumption.
+             iii.   Resilience
+                   Power back up during calamities & Design Measures for Risk Management and disruptions.
+                   Resilience to Earthquakes, Heat Waves & Flooding, Structure design as per the guidelines
+             iv.   Affordability
+                   To reduce the cost of construction and carbon emission by using locally available materials.
+                   Use of appropriate construction system to reduce the cost and on-site waste.
+                   Right sizing of the HVAC systems for energy efficiency.
+              v.   Innovation
+                   Our goal is to innovate a sensor less Building Automation System (BAS), so that the installation,
+                   operation, and maintenance cost get reduced to almost zero which in turn would encourage a lot of
+                   people to implement BAS in their buildings. This saves a lot of energy.
+             vi.   Scalability and Market Potential:
+                   The goal is to propose an office building design model that can be reproduced in different part of the
+                   country capable of tackling the environmental challenges and is cost and time efficient
+             vii.   Comfort and environmental quality
+                   Our goal is to provide good Indoor air quality and thermal comfort through the use of passive design
+                   strategies,  Minimum  Active  Technology,  No  direct  solar  radiation  on  any  workstation,  more  alert
+                   employees, better energy level, better productivity and health.
+            viii.   Architectural design
+                   Our main goal for design is to achieve net-zero energy water building through use of passive design
+                   techniques, efficient technologies, renewable energy resources, energy conscious design, low
+                   embodied energy using materials, Construction, and operations of the project.
+             ix.   Engineering design and Operation
+                   Design of Exterior Façade and Interior walls with prefabricated drywall construction. Incorporation of
+                   Building Information Modelling for increased accuracy of cons]]></page><page Index="10"><![CDATA[8.  DOCUMENTATION OF DESIGN PROCESS
+
+
+               The design team included six members of the team. (Rajon, Priya, Abhishek, Urmi, Jagriti and Pranjal). The
+               initial discussion included the identification of major spaces required in the building. We used Miro App
+               to collaborate on ideation of design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Figure 1: Space Requirements
+               After we had finalized the spaces, the team started to identify proximity of spaces using the Miro App.
+               Each floor layout with proximity was identified.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      Figure 2: Proximity Map]]></page><page Index="11"><![CDATA[Next, we had discussion with the Project Partner from where we finalized the Area requirements for each
+               space typology and finalized the space requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Figure 3: Bubble Diagram
+
+
+
+               After the space requirements finalized., the team identified the optimum form of the building and then
+               finalized the Plan layouts of the building.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Figure 4: North Facade                              Figure 5: South Facade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               Figure 6: Final Plan Layout (Ground Floor)]]></page><page Index="12"><![CDATA[9.  DESIGN DOCUMENTATION
+
+
+               A.  ENERGY PERFORMANCE
+               On-site Renewable Energy Generation Potential:
+              i.   Solar energy
+                Area Covered for PV Panel    4495 sqm
+                Module Type:                 Standard
+                Array Type:                  Fixed (open rack)
+                Array Tilt (deg):            32
+                Array Azimuth (deg):         4
+                System Losses:               11.42
+                Invert Efficiency:           96
+                DC to AC Size Ratio:         1.2
+                Total PV Output              391828.15 kWh
+
+
+                 Month       AC System PV Output(kWh)                       AC System PV Output(kWh)
+
+                 January              13933.43
+                                                             60000.00
+                 February             17999.69
+
+                 March                34872.81               50000.00
+                 April                45406.02
+                 May                  56357.86               40000.00
+                 June                 49859.38
+                                                             30000.00
+                 July                 47207.59
+
+                 August               42172.46
+                                                             20000.00
+                 September            34709.93
+                 October              24185.15               10000.00
+                 November             14056.55
+                 December             11067.28                  0.00
+                                                                      Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+                 Total               391828.15
+
+               Table 2: Monthly PV Output                                Figure 7: Monthly PV System Output Graph
+
+
+              ii.   Wind energy
+                       Generation = rating*capacity factor*hours
+                       = 1KW x 16x 3600(5 MONTHS)
+                       =57600kwh
+
+             iii.   Biomass power generation
+                       Estimated biomass = 0.67 ton/day
+                       A 5kw power plant can be fed.
+
+               Total On-Site Energy Generation = 391828.15 + 57600 kWh = 449,428 kWh annually.]]></page><page Index="13"><![CDATA[Building Energy Consumption
+
+
+                                     District Cooling [Kwh]    Lighting [Kwh]     Equipment Electricity [Kwh]
+                      January              49471.08               1518.72                 10190.82
+                     February              61225.8                1067.4                   8904.18
+                      March                144046.2               951.36                   9414.72
+                       April              166044.72               781.08                   9761.94
+                       May                202239.78               630.24                  10190.82
+                       June               179302.86               619.02                   8985.9
+                        July               161595.9               659.58                  10190.82
+                      August              139947.24                766.2                   9802.8
+
+                    September             147169.68               917.22                   9373.92
+                      October              124753.5                1266                   10190.82
+                     November              69195.24               1315.62                  9373.92
+                     December              47356.74               1452.18                  9802.8
+
+
+                    Annual Sum            1492348.74             11944.62                 116183.46
+
+                   Total Electricity
+                      Demand              1620476.82
+                 Total Building Area      18605 sqm
+                    Achieved EUI            87.10
+                                            Table 3: Building Monthly Electricity Consumption
+
+
+                                                     District Cooling [kWh]
+
+                            250000
+
+
+                            200000
+
+
+                            150000
+
+
+                            100000
+
+
+                            50000
+
+
+                                0
+                                    Jan  Feb  Mar  Apr  May   Jun  Jul  Aug  Sep  Oct  Nov  Dec
+
+                                               Figure 8: Cooling Electricity Consumption]]></page><page Index="14"><![CDATA[Measures to minimize Energy Demand
+
+              i.   Daylighting – To Minimize Lighting Load
+
+               The Building has 46% of Areas with sDA 300/50.
+
+
+
+                                                               Space Name        Number    Area       sDA 300/50
+                                                                                                      %
+
+                                                               Office ODC 1             1  473.3 m²             59
+                                                               Collab Area              5  12.7 m²               0
+                                                               Meeting Room             6  17.6 m²               0
+                                                               Collab Area              7  12.4 m²               0
+                                                               Office ODC 2             8  244.5 m²             18
+                                                               Electrical Room          9  18.5 m²             100
+                                                               HVAC Room               10  18.8 m²             100
+                                                               Meeting Room            11  18.2 m²             100
+                                                               Meeting Room            12  18.8 m²             100
+                                                               Office ODC 3            13  325.4 m²             41
+                                                               Office ODC 4            14  290.5 m²             31
+                                                               Atrium                  15  82.1 m²             100
+                                                               Waiting Area            16  61.5 m²              88
+                                                               Corridor                17  227.8 m²             14
+                                                               Reception               18  20.5 m²              59
+                                                               Meeting Room            19  23.5 m²               0
+                                                               Meeting Room            20  24.0 m²             100
+                                                               Collab Area             24  12.0 m²             100
+                                                               Collab Area             25  12.0 m²             100
+                                                               Collab Area             26  11.9 m²             100
+                                                               Collab Area             27  12.6 m²             100
+                                                               Meeting Room            28  26.0 m²             100
+                                                               Corridor                29  147.1 m²             28
+                                                               Entrance Lobby          30  260.8 m²             86
+
+                                                                             Table 4: Spatial Daylight Autonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Figure 9: Ground Floor Daylight Simulation]]></page><page Index="15"><![CDATA[ii.   Building Façade – To minimize Heat Gain
+
+               Through Radiation analysis we got to know that south, east and west façade are receiving maximum solar
+               radiation so we needed to cut down solar radiation in these facades. West façade does not have
+               openings. AAC blocks are used for wall construction with XPS insulation of 79.55 mm to protect the walls
+               from sun and avoid the heat gain. Windows are provided with double glazing and u value of 1 w/m²k and
+               low SHGC value 0.28 and VLT of 49.6% and roof has the been provided with RCC and has a double skin
+               façade with glass wool insulation which reduces the u values up to 0.25 w/ m²k.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      Figure 10: North Facade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      Figure 11: South Façade]]></page><page Index="16"><![CDATA[B.  WATER PERFORMANCE
+
+
+
+                 S.no   Goals to achieve   Goals achieved       Remarks
+
+                 1.    40ltr Per capita   39ltr Per capita      For per capita freshwater requirement, the
+                       freshwater         freshwater            clients demand taken into consideration and
+                       consumption        consumption           provisions are made to return that much of
+                                                                amount to ground to make it a net zero water
+                                                                building.
+
+                 2.    Use of recycled    Recycled water is used  Use of recycled water is decreased with the use
+                       water wherever     in landscaping, HVAC,   of waterless urinals as major part of this was
+                       possible           and toilet flushing.   being used for flushing.
+
+
+
+
+
+
+                 3.    Efficient storage   4-day storage of     Instead of spending on Storage of rainwater in
+                                          municipal water is    large amount in tanks, municipal supply with 4-
+                                          provided.             day storage is used. For the rainwater storage a
+                                                                water body is made to store the rainwater and
+                                                                helps to provide it enough time to be soaked up
+                                                                inside for ground recharge through nearby soak
+                                                                pits.
+
+                 4.    100% on-site       100% sewage is        STP plant on site is used to treat the generated
+                       sewage treatment  treated on site        sewage.
+                       with zero
+                       discharge
+                 5.    Net-Zero water     Net-positive water    With ground water recharge (rainwater
+                       design             design is achieved.   + recycled water), the amount of water used in
+                                                                the building is balanced with the amount of
+                                                                water sent back for groundwater recharge.
+
+
+
+
+                                              Table 5: Water Performance Goals Summary]]></page><page Index="17"><![CDATA[i.   Water flow diagram.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   Figure 12: Water Flow Diagram
+
+
+              ii.   Net-Positive water loop diagram.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Figure 13: Positive water loop diagram]]></page><page Index="18"><![CDATA[iii.   Water collection area break-up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               Figure 14: Water Collection Area-breakup
+             iv.   On-Site integration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Figure 15: On-site water loop integration diagram]]></page><page Index="19"><![CDATA[v.   Water body-controlled ground water recharge.
+
+               A water body on site is used to control the ground water recharge. Two recharge pits with depth of 25
+               feet are used in opposite directions to be used for ground water recharge, water goes into the pits
+               through automated controlled inlets provided at 6 feet from bottom of water body. The water body rises
+               further 5 feet above the inlet.
+
+               The dimensions and opening height are provided on basis of calculations of rainwater collection and
+               recycled water quantity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Figure 16: Waterbody integrated recharge pit.
+             vi.   Sedimentation chambers and storm water speed reduction.
+
+               Rainwater collected from places goes to the water body, the impurities are reduced by passing it through
+               sedimentation chambers. Before entering the sedimentation chamber, the speed of this water is reduced
+               by 360-degree rotation of the flow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Figure 17: 360-degree movement of flow for breaking storm-speed and sedimentation chamber]]></page><page Index="20"><![CDATA[vii.   Toilet layout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      Figure 18: Toilet layout]]></page><page Index="21"><![CDATA[C.  RESILIENCE
+
+                  i.   Pandemic Resilience Strategies
+                   •  Complete sanitization on entry points.
+                   •  Screens to separate working area in open office
+                   •  Air sanitization devices in the open offices
+                   •  Reducing the number of processes that includes physical contact
+                   •  Maintaining social distancing in public spaces
+                   •  Providing strategies to transfer to complete work from home mode in case of future such
+                       pandemic disasters with more focus on areas for virtual interaction.
+
+
+                 ii.   Power back up during calamities & Design Measures for Risk Management and disruptions.
+
+               · Power back up during calamities & Design Measures for Risk Management and disruptions. Rooftop
+               Photo-Voltaic (PV) systems have the potential to supply electricity during grid disruptions resulting from
+               extreme weather or other emergency situations. When in place, the Electricity System Resiliency will limit
+               the consequences of a power disruption and specifically address protection of life and property.
+                 iii.   Resilience to Earthquakes, Heat Waves & Flooding
+
+               · Our site lies in seismic zone 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           Figure 19: Seismic Zonation and Intensity Map of India
+               Structure design as per the guidelines mentioned in
+
+               •  IS 4326 (1993) - EARTHQUAKE RESISTANT DESIGN AND CONSTRUCTION OF BUILDINGS — CODE OF
+                   PRACTICE
+               •  IS 1893 (1984) - CRITERlA FOR EARTHQUAKE RESISTANT DESIGN OF STRUCTURES]]></page><page Index="22"><![CDATA[With  temperature  reaching  42  degrees  in  summers  ad  frequent  heat  waves  in  the  region  mitigation
+               strategies  like  shaded  rooftop  areas,  a  more  thermally  resistant  building  envelope,  and  the  standard
+               provision  of  air-conditioned  office  areas  provide  resiliency  against  heat  waves.  The  orientation  of  the
+               building is based on the data of annual Solar Heat Gain Radiation and wind flow to keep the temperature
+               of the building in comfort range. Data mentioned under energy performance head.
+
+               The project partner already had a well-developed campus in terms of security and resilient strategies in
+               terms of water storage at times of drought and fire were developed earlier in view of further developments.
+               Water storage for 2 days from the in-situ storage facility and 5 days from the nearby natural reservoir.
+               Further data mentioned under water performance head.
+
+               As per the requirement of the client for resilience in terms of cyber security, the server rooms are placed
+               to ensure security both from physical attacks and cyber-attacks, our team is still working on how we can
+               ensure the same in the final project.
+
+               An idea for a closed mobile application for the employees which will have an early warning system for
+               natural disasters and a quick alarm system in case of fire in any part of the building. Employees can also use
+               the application for sharing data and files within an ODC so that the cyber privacy is maintained.
+               The site is situated far from low-lying flood plain of Mohali. Strategies are incorporated for water collection
+               at the time of heavy rain. Since the project is extension on the pre-developed site recovery strategies at
+               the time of natural disaster were already taken care off by the project partner.
+
+                 iv.   Resilience To Fire
+
+                   The Infosys office comes under business building therefore it lies in fire zone 2 of the city. IS.1641.1988
+                   guidelines are incorporated in the building.
+                   Below is the evacuation plan and fire zones description of the proposed office building.
+
+                   Fire Evacuation Plan]]></page><page Index="23"><![CDATA[Figure 20: Fire Evacuation Plan
+
+
+
+               ‘
+
+
+
+               Fire Zoning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   Figure 21: Building Fire Zoning]]></page><page Index="24"><![CDATA[D.  AFFORDABILITY
+
+               Design strategies for Rightsizing and Optimization
+
+                   •  HVAC system
+
+               Thermally Activated Building System (TABS) is used for the radiant heating and cooling of the building.
+               As the tubing used in the system is embedded in the floor slabs, the size of the visible components like
+               ducts and AHU’s can be reduced, resulting in reduced floor to floor building heights. The embedded
+               tubing system requires no maintenance including the chilled water source and distribution. The DOAS
+               system used by the radiant cooling system not only reduce the operation costs but make a significant
+               difference in the capital costs.
+
+                   •  Water performance
+               To improve the water consumption, Faucet Aerator with sensor is used in the faucets. It is water
+               efficient and low maintenance.
+
+               For harvesting rainwater, a water body is used on the site instead of constructing a large tank.
+                   •  Structure system
+
+               A flat slab system is used in the structure system, which gives flexibility in the design layout. It will
+               reduce the floor-to-floor height resulting in reduced building height and foundation load. It takes less
+               time in construction and M & E services can be easily installed on it.
+
+                   •  BIM 5D sequencing
+
+               In conventional estimating techniques, where we use 2D drawings there will be a chance of inefficiency
+               and error, but a three-dimensional project model removes the ambiguity and potential inconsistencies
+               in project quantity estimations.
+
+               In BIM we can automatically generate the quantities from the model itself. Provides cost loaded
+               schedules and the data can be queried at any time during a project and the information that feeds cost
+               reports is regularly updated.
+
+               Design strategies for economy and cost of finance in construction
+
+                   •  Materials
+
+               The materials used in the facade system are used on the preference of their availability in the local
+               market. This will reduce the embodied carbon and make the process more sustainable.
+
+               AAC blocks used for walls will reduce the construction time due to their size and thus construction cost
+               will also be reduced.
+
+                   •  Finance
+
+               The project is fully financed by the client itself, Infosys Limited.]]></page><page Index="25"><![CDATA[E.  INNOVATION
+
+               Problem Definition
+
+               In maintaining the energy efficiency of the building, building automation plays an important role. With the
+               rise of modern technologies and inventions in the field of building automation, the energy-saving capacity
+               of buildings has exponentially risen. In fact, sensors, actuators, and controllers, which collectively serve as
+               the backbone of cyber physical systems for building energy management, are one of the core technical
+               areas of investment for achieving the goals for energy affordability being mentioned by various standards.
+               But, at the same time, installation and maintenance of these sensors, actuators and controllers is not an
+               easy task. Starting from selecting the appropriate sensors, designing the network, installation, testing to
+               regular maintenance of these networks needs a lot of effort and resources. A lot of money and human
+               resource is being deployed at this section to achieve that exponential level of energy saving. Even after
+               spending a lot of resources on this, it is highly prone to hardware errors and even a small error can halt the
+               whole  automation  system  of  the  building  which  in  turn  would  increase  the  energy  consumption  and
+               operational cost. Especially in office buildings, where building automation is done on a large scale, it has a
+               very big impact. To solve this issue, a lot of resources are being done to increase the efficiency of the sensor,
+               actuator  and  controller network  itself,  like  wireless  sensors,  smart  sensors etc.  But  still,  a remarkable
+               solution  is  not  yet  achieved.  We  seek  to  address  this  problem  by  proposing  a  sensor  less  building
+               automation system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Figure 22: Typical Architecture of BAS
+
+               Proposed Solution
+
+               We have designed an IT office building. The core job being carried out here is through computers and
+               computer network.  Every individual has a LAN port near to his table and his computer, in which he works
+               for almost 85% of his total presence time within that building. All these computers are connected to the
+               local server and the total data transfer happens through it. We primarily aim to estimate the current
+               occupancy of an area by analysing the traffic of data in that particular area and hence operate necessary
+               systems accordingly. With this, we can sense the occupancy and control the lighting and other electric
+               fixtures accordingly. When it comes to sensing the thermal comfort of the occupants, we aim to develop
+               an AI model which will be deployed at the server. This model will analyse the data being transferred from/to
+               an individual’s computer and predicts his thermal comfort. We expect this model to produce results at high]]></page><page Index="26"><![CDATA[accuracy because the output of any person is strongly related to his thermal comfort. Other factors related
+               to the output of an individual will not affect the accuracy of our model because we plan to train our model
+               with a vast dataset from various office types, various regions, various age groups, various shift schedules,
+               various time frames etc. By predicting thermal comfort, HVAC systems  can be operated efficiently. By
+               estimating the occupancy and predicting the thermal comfort just through the data traffic, we aim to totally
+               remove all kind of sensors present in primary functional spaces like office spaces, meeting rooms etc.,
+               except water management sensors. For rest of the spaces like cafeteria, toilets, lounges etc., the occupancy
+               will be predicted using AI model by taking inputs like the total current occupancy of the building (from the
+               electronic attendance record), current occupancy of office spaces, and other relevant data. Our secondary
+               aim is to deploy an RL (Reinforced Learning) model which can continuously take inputs from the users to
+               increase the accuracy of the results produced. On the other side, we will use wireless, internet-connected
+               fixtures, actuators and controllers where each element will have its own address in the network. By this, it
+               is very easy to operate these components, installation and maintenance cost is less, and if any error is
+               spotted it is very easy to locate it and fix it without affecting the rest of the system.
+
+               Target Market
+               Our primary target is office buildings where computer network forms the core of the office functioning. As
+               we are only dependent on core hardware of such offices and no other extra hardware are required, it is
+               very easy to implement our solution in their offices. Not only in ‘under-construction’ or ‘to-be-constructed'
+               buildings, even in functioning offices, it is easy to implement our solution with nearly zero opportunity cost.
+               At  the  same  time,  with  modifications  in  the  model  employed,  the  solution  can  be  implemented  in
+               educational campuses, and other campuses where network of computational devices is available in large
+               scale.
+
+               Challenges and Strategies
+
+               Major advantage of this innovation is there are almost no challenges in implementing our solution in our
+               target market. The only but major challenge is collecting dataset to train our AI model. For this we need to
+               tie up with various offices across the World. Though we are just concerned about the quantity of data being
+               transferred, authorities or administrators might not feel comfortable to let us have control on their data
+               traffic data. To face this challenge, we have thought upon few strategies. Our client, Infosys, has branches
+               in 14 cities with multiple office buildings in these cities. They can form a huge source of dataset for us. We
+               plan to design a data collection portal where respondents can easily enter necessary data without any
+               hinderance. We also plan to make MoUs with few large IT companies where we can provide them our
+               product with concession in return to dataset for training our model.
+
+               Market Impact
+
+               Our  solution,  once  introduced  in  market,  will  make  a  remarkable  impact.  As  mentioned  earlier,  the
+               installation and operational cost is almost zero. Anyone from the target market can easily implement our
+               system.  Because  of  this  cost  and  resource  savings,  more  people  will  be  ready  to  implement  building
+               automation system in their buildings, which not only improves our business but also a vast amount of
+               energy will be saved.]]></page><page Index="27"><![CDATA[F.  SCALABILITY AND MARKET POTENTIAL
+
+               Smart Buildings for A Smart City
+
+               Smart autonomous office buildings are the secret sauce for a smart city. IT based offices are flooding the
+               nation. It is one of the sectors with high money flow. The scope for IT office building is really high at least
+               for the next one decade. We have designed in such a way that it would meet the need of all kind of clients
+               present in the market. Our design is not client-need specific. At the same time, we didn’t fail to meet the
+               expectations of our project partner. So, it is very easy to implement this kind of design anywhere in the
+               country.
+               Climate responsiveness is the only factor to consider in such a case. But as we have achieved the climate
+               responsiveness mostly through materials, just altering the materials accordingly would help us. Also, the
+               office space within each floor is modular. It can be multiplied or reduced as per the need.
+
+               The building automation system which we propose to innovate will be of great demand in market. There
+               is not much infrastructure to install. It is mostly software based. Hence, it is easy to implement in existing
+               buildings as well. Also, that system is not constrained to use within IT offices. It will be of great use in
+               spaces like Universities, Libraries, Large office spaces, etc.
+
+
+
+               CONSTRUCTION TECHNIQUE
+
+               Precast construction technique is used is flat slab systems. This has many advantages over conventional
+               construction system. Precast technique saves time and hence reduce cost of construction in terms of
+               material and labour.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Figure 23: Stage of precast construction]]></page><page Index="28"><![CDATA[Precast concrete construction is preferable because:
+
+                · Production is done in a controlled environment which improves quality
+
+                · Easier to train workers in a shop environment
+
+                · Use of Moulds costs less than the in-situ form-work which also provide dimensional accuracy
+                · Reduced construction time, which is of value to the developer
+
+                · Design can be optimized to desirable size, shape and finish
+
+                · Precast concrete structures provide superior resistance to fires, natural disasters, insects and mold
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Figure 24: Advantages of precast construction]]></page><page Index="29"><![CDATA[G.  COMFORT AND ENVIRONMENT QUALITY
+
+               Passive strategies to achieve thermal comfort
+
+               Initial design annual solar radiation analysis
+               Through annual Radiation analysis on the building envelope on our initial design we concluded that south,
+               east, and west façade receive most of the solar radiation.
+
+
+
+
+
+
+
+
+
+
+
+               Figure 25: South and West annual radiation analysis   Figure 26: North and East annual radiation analysis
+
+
+               Longer east-west direction was chosen for this project as distribution of the solar radiation densely during
+               the winter months and less during the summer months in the south wall, makes this orientation
+               favorable. Glass faced has been chosen for north façade as it receives least solar radiation. South west
+               and east walls receive most solar radiation which ultimately results in heat gain. These walls need extra
+               insulation to avoid heat gain in the building. Selection of materials and providing extra insulation where
+               needed was one of the key design strategies. Designing shading devices to cut off the Summer Sun and
+               maximize the Winter Sun was needed to achieve thermal comfort.
+
+               Final design annual solar radiation analysis
+
+
+
+
+
+
+
+               Figure 27: Solar radiation on the North building envelope   Figure 28: Solar radiation on the South building envelope
+
+
+               As initial analysis we concluded that south, east, and west façade receive the maximum solar radiation,
+               we cut down the solar radiation on the southern side by using optimized shading devices on the southern
+               façade. And protected the roof and south and west façade by using a double skin façade element which
+               covers the whole building from top, east, and west side. Providing an extra layer which cuts down the
+               solar radiation falling on the roof hence benefit in reducing heat gain and help in achieving thermal
+               comfort. Glazing is provided in north façade to provide adequate daylight as most of the office spaces are
+               placed along the north façade. Light shelves are used in this façade to provide deep penetration of day
+               light inside the interiors.]]></page><page Index="30"><![CDATA[Figure 30: south façade with optimized shading devices   Figure 29: Facade design details with
+                                                                       optimized shading
+
+
+
+
+
+
+
+
+
+
+
+
+                Figure 31: North facade with glazing                    Figure 32: Light shelf for deep penetration of light
+
+
+               Material selection strategies for Thermal comfort
+               Wall and glazing insulation and their relative quantities mostly govern thermal performance in a building
+               like this where length and width ratio are quite high with 5 stories and have large footprint of walls and
+               glazing compared to roofs.
+
+
+
+               Materials for Window Assembly:
+               Double glazed (SunGard® extra Selective SNX 50) window with u value of 1 w/m²k and low SHGC value
+               0.28 and VLT of 49.6%. Composition 6mm / 16 mm / 4 mm with Gap 1 10% Air, 90% Argon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Figure 33: Double Glazed Window Details]]></page><page Index="31"><![CDATA[Materials for Wall Assembly:
+
+               We used a wall assembly which contains layers of Autoclaved Aerated Concrete (AAC) Blocks, interior and
+               exterior plaster with XPS insulation of 79.50mm thickness with 100mm brick cladding.
+
+               U-Vaue = 0.350 W/sqm-K
+
+
+
+
+
+
+
+
+
+
+
+                                 Figure 35: Wall assembly Layers            Figure 34: Wall assembly section
+
+               Materials for Roof Assembly
+               Reinforced cement concrete with plaster on both sides as double skin roof is being used with insulation of
+               glass wool is provided with 10mm asphalt coating. Roof U-Value = 0.250
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Annual Hours of Discomfort with and without the use of refrigerant based mechanical cooling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Figure 36: Annual Discomfort hours with and without the use of Refrigerant based cooling.]]></page><page Index="32"><![CDATA[Active strategies to achieve thermal comfort
+
+               HVAC System:
+
+               Considering climate conditions of Mohali and project partner requirements, Radiant Cooling System
+               integrated with a Dedicated Outdoor Air System (DOAS) for cooling and ventilation is used in this project.
+
+               •  Radiant Cooling System: Thermally Activated Building System (TABS) is a combined heating and
+                   cooling system with pipes embedded in the structural concrete slabs or walls of Multi-Storey
+                   buildings. TABS operates at temperature close to ambient enabling more efficient utilization of
+                   renewable and free cooling sources. Moreover, it provides optimized thermal indoor environment.
+               •  Dedicated Outdoor Air System (DOAS):  A DOAS provides fresh dehumidified air to the building.
+                   Radiant cooling system removes only sensible heat from the building but to handle latent heat loads
+                   DOAS system is required.
+
+               Natural ventilation
+
+               •  Orientation: Building is oriented in prevailing wind direction which provides maximum ventilation to
+                   the building.
+               •  Building shape: thinner building shape is used in the design to increase the ratio of surface area to
+                   volume which is helping in ventilating building naturally. This strategy not only helps in cross
+                   ventilation but also helping in stack effect.
+               •  Operable windows: South façade window inlets are operable which allows to adjust the flow of fresh
+                   air inside the building
+
+               Mechanical ventilation
+
+               It is used in the building to improve indoor air quality, and control humidity, odors and contaminants
+               through dilution and replacement with outside air.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               Figure 37: HVAC System Section Diagram]]></page><page Index="33"><![CDATA[Night flushing:
+
+               It is a passive cooling method which allows wind to create thermally initiated pressures. The heat which is
+               absorbed by building envelope in daytime released in indoors during nighttime which is flushed by night
+               ventilation. Automatically operable windows and ventilators and louvres being opened for a pre-set
+               period of time over night, allowing a natural air flow through the building.
+
+
+               Site,  Landscape  and  Urban  design  strategies  for  achieving  reducing  thermal  stress  in  the  outdoor
+               environment:
+
+               Site vegetation and landscape elements affect the outdoor thermal comfort for the encompassing
+               buildings in composite climate like Mohali. In order to improve the outdoor thermal environment of
+               attached urban morphologies in Mohali Infosys Campus, the streets and the spaces between buildings
+               must be taken into account in the urban and landscape design processes.
+
+               Vegetation is used in design for energy conservation in our office building in the following ways:
+
+                   •  Shading of buildings and open spaces through landscaping with native plants
+                   •  Terrace gardens with adjacent workspace
+                   •  Shading of vertical and horizontal surfaces
+                   •  Buffer against cold and hot winds
+                   •  Changing the wind direction
+
+               Landscape and vegetation also alter the micro-climate of our design site and was used as micro-climate
+               manager for as long as buildings have been built. This was possible through evapotranspiration.
+
+               Plantation also shading building surfaces in west and southern facade and open ground, thus inducing lower
+               surface temperatures and it does not vary much even when exposed to harsh radiation occasionally during
+               hot seasons. we are considering semi outdoor terrace gardens for reducing heat loads in office workspace
+               and working as shading devices for our façade. The green cover lowers ambient temperatures through
+               evapotranspiration.
+
+               As the entrance is in the north façade which will be shaded by building shade through during the harsh
+               hours of the day. There is a water body on the northern side of the façade which is helping in evaporative
+               cooling.]]></page><page Index="34"><![CDATA[H.  ARCHITECTURE DESIGN
+
+               Concept:
+
+                                                                1.  The Idea was to get the minimum sun exposure
+                                                               of the building during summer and maximize during
+                                                                                                Winter season.
+
+
+                                                                                                              2. The Building was imagined as set of cuboids. Each
+                                                                      of the cube was examined through heat gain
+                                                                      simulation. The orientation of the cubes was
+                                                                   set as the best orientation throughout the year.
+
+                                                                                                              3. Each of cuboid was affecting the immediate cube
+                                                                              in terms of best orientation set up.
+
+
+                                                                   4. calculating all the possible angles the form all
+                                                                        best orientation the form gets the feature
+                                                                                                      like this
+
+
+
+
+
+                 Figure 38: Concept Design
+
+
+               Building Elevations:
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Figure 39: South Elevation
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Figure 40: North elevation]]></page><page Index="35"><![CDATA[Visualizations:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Figure 41: Birds eye view from southern side
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   Figure 42: View form South-East]]></page><page Index="36"><![CDATA[Figure 43: View from North-west
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Figure 44: View from North-east]]></page><page Index="37"><![CDATA[Architecture Plans:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Figure 45: Ground Floor Plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Figure 46: First Floor Plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Figure 47: Second Floor Plan]]></page><page Index="38"><![CDATA[Figure 48: Third Floor Plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Figure 49: Fourth Floor Plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Figure 50: Fifth Floor Plan]]></page><page Index="39"><![CDATA[I.  ENGINEERING DESIGN AND OPERATION
+
+               Proposed Construction Materials:
+
+               1.  RCC Framed Structure- Flat slab system
+               2.  AAC Blocks for exterior walls
+               3.  Drywall for interior partitions
+               4.  RCC slab for floor and roof
+               5.  Low-e double glazed glass for glazing
+
+               RCC Framed Structure - Flat Slab System:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Figure 51: View of Structural elements
+
+               Flat Slabs without drop panels are introduced in the design, which can be built at a very fast pace as the
+               framework of structure is simplified and diminished. Also, speedy turn-around can be achieved using an
+               arrangement using early striking and flying systems.
+               Flat slab construction is deeply reducing floor-to –floor height as flat slab construction does act as limiting
+               factor on the placement of horizontal services and partitions.]]></page><page Index="40"><![CDATA[In case the client plans change in the interior and wants to use the accommodation to suit the need, flat
+               slab construction is the perfect choice as it offers that flexibility to the owner. This flexibility is possible
+               due to the use of square lattice and absence of beam, hence making channeling of services and allocation
+               of partitions easy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  Figure 52: Column and slab section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   Figure 53: Column and slab plan]]></page><page Index="41"><![CDATA[Figure 54: Column and drop panel details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Figure 55: Footing section]]></page><page Index="42"><![CDATA[Building Structural Layouts]]></page><page Index="43"><![CDATA[Figure 56: Building Structural Layouts
+
+               Other Building Structural Elements
+
+               AAC Blocks for exterior walls
+
+                AAC is lightweight precast foam concrete. Its advantages are:
+               Lightweight
+
+               AAC Blocks are three to four times lighter than traditional brick; therefore, more suitable and cheaper to
+               transport Block weighs approximately 50% less than standard concrete masonry block, and usage reduces
+               the overall dead load of the building thereby allowing construction of the taller building
+
+               Easy Workability and design flexibility
+               Blocks can be easily cut drilled nailed and grooved to fit individual requirements available in custom sizes
+               simplifies hydro sanitary and electrical installations such as pipes or ducts, which we can install after the
+               completion of the leading construction.
+
+               Faster Construction
+
+               Reduces construction time by 20% different sizes of blocks helps reduce the number of joints in wall
+               masonry, lighter blocks facilitate more comfortable and faster construction. These blocks are easy to
+               install also sets and hardens quickly.]]></page><page Index="44"><![CDATA[Minimum Wastages
+
+               AAC blocks have negligible breakage less than 5%; hence utilization of blocks increases.
+
+               Thermal insulation and energy-efficient
+
+               These blocks allow excellent thermal insulation due to tiny air pores and thermal mass of blocks. Hence
+               helps in reducing heating and air conditioning costs of a building.
+               Eco friendly and sustainable
+
+               Mix productive use of recycled Industrial waste is a fly ash non-polluting manufacturing process. The only
+               by-product is steam made of non-toxic ingredients that do not exist gasses.
+
+               Acoustic performance
+
+               Superior sound absorption qualities due to the porous structure of block offer sound attenuation of about
+               42 decibels blocking out all significant sounds and disturbances.
+
+               Fire-resistant
+
+               AAC blocks are non-combustible and fire-resistant up to 1600 degrees Celsius. These blocks are fire-
+               resistant approximately 2 to 6 hours, depends on the thickness of the Wall.
+
+               Cost-saving
+
+               The requirement for plaster on AAC blocks is less due to the surface accuracy of the blocks, thus reduces
+               overall construction cost by 2.5 %. Since it requires less jointing hence minimizes the demand for cement
+               and steel. AAC block has high insulation properties, which help in saving energy costs by almost 30%.
+
+               Seismic resistant
+
+               The manufacturing process gives the blocks excellent strength maintaining its lightweight property due to
+               which the steadiness of these blocks in buildings is more reliable, making it earthquake resistant.
+
+               Accuracy
+
+               ACC blocks offer high precision in size. Blocks are available in exact dimensions to provide a smooth wall
+               with a perfect joint between different elements. It also helps to save cement and steel usage.
+
+               Termite pest-resistant
+
+               The blocks are made with inorganic materials; hence it keeps termites away, avoiding damages and
+               losses.
+
+               Water saver
+
+               AAC Block walls do not require water for curing. Only the mortar joints need water for curing, thus
+               reduces water consumption.]]></page><page Index="45"><![CDATA[Drywall for Internal Partitions:
+
+               Affordability
+               Drywall and Drywall service is affordable for just about everyone. Its cost efficiency makes it a highly
+               popular choice for homeowners. It is much more affordable than plaster walls or paneling. Combine the
+               affordability of drywall with its ease of installation and repair, and it makes for a wildly popular choice.
+               Not only is the drywall itself affordable, but so is the repair or replacement of it.
+               Beauty and Elegance
+               There is a simple yet elegant beauty to drywall for homes or offices. It can be painted multiple times,
+               allowing you to change the look and feel of a room quickly and easily. When properly installed, drywall is
+               easily one of the best-looking materials available and affordable for most people. Get in touch with a
+               drywall contractor or drywall expert for service today.
+               Insulation Properties
+               When it comes to insulation, not many affordable materials can compare to drywall. It helps any room
+               retain its temperature, whether it’s cold air or warm air. Improved insulation will not only make your
+               rooms cozier and more comfortable; it will also lower your energy bill costs all year long. Heaters won’t
+               need to work as hard to keep rooms with drywall warm. The same is true for air conditioners and drywall.
+               A competent drywall technician can explain this to you further.
+               Fire Resistant Properties
+               Drywall slows down the spreading of fires. This greatly aids in the containment of fires in your home or
+               office. The safety benefits of drywall alone make it well worth the cost, which is already low! Drywall can
+               slow down a fire and potentially save your home or office from further damage. Furthermore, it may even
+               aid in the saving of the most precious commodity on the planet; life. Always call a credible company for
+               drywall installation and repair service.
+               Ease of Repair and Installation
+               Drywall is easy to install for professionals, which helps make it a very popular choice. Not only is the
+               installation fast and easy, but repairs can be performed much easier than many other wall materials.
+               Drywall is installed in large sections. But can be repaired without replacing the entire section due to
+               various techniques used by pros.
+
+               Low-E- Glazing:
+
+               Features
+               •  Low U-Values
+               •  Superior aesthetic
+               •  Diverse ranges of reflectivity
+               •  Insulating laminated, heat strengthened and bent glass available
+               •  Extensive range of colors, patterns, and designs for different projects.
+
+               Advantages
+               •  Heat control and energy e-fficiency
+               •  Protection against UV radiation
+               •  Optimum light transmission
+               •  Provides maximum daylight, transparency and improves visibility.]]></page><page Index="46"><![CDATA[Building Materials:
+
+                 Materials           Elements             U-Value                        Rates
+                                                                          2
+                 Struct. Frame       RCC                  U value - 0.5 W/m K            Rs.15000/cu.m
+                                                                           2
+                 Ext. Wall           AAC                  U value - 0.08 W/m K           Rs.2800/cu.m
+                                                          Thickness - 10inches
+                 Int. partition wall   Drywall            Wall thickness - 144mm
+                                     (Best for acoustics)   Acoustics - 58 Rw
+                                                          Fire resistance - 60mins
+                                                          Weight - 47 kg/m 2
+                 Int. partition wall   Drywall            Wall thickness - 100mm
+                                                          Acoustics - 47 Rw
+                                                          Fire resistance - 60mins
+                                                          Weight - 38 kg/m 2
+                 Glazing                                  Low Iron + Low Iron
+                                                          Visible (Trans.) - 80.0%
+                                                          Visible (Refl.Ext.)- 14.0%
+                                                          Visible (Refl.Int.) - 14.0%
+                                                          Solar (Trans.) - 65.0%
+                                                          Solar (Refl. Ext.) - 20.0%
+                                                          U value (Winter) - 0.32
+                                                          U value (Summer) - 0.31
+                                                          SC - 0.78
+                                                          SHGC - 0.68
+                                                          LSG - 1.18
+                                                                          2
+                 Floor               RCC Slab             U value - 0.8 W/m K
+                                                          Thickness - 6inches
+
+                 Roof                RCC Slab with        Slab thickness - 6inches
+                                     Polyisocyanurate     PIR thickness - 1inch
+                                                                                    2
+                                     (PIR) insulation     U value of system - 0.15 W/m K
+                                                     Table 6: Building Materials]]></page><page Index="47"><![CDATA[HVAC system
+
+               In Mohali, the summers are short, sweltering, and clear and the winters are short, cool, dry, and mostly
+               clear.
+
+               As it is an office building, internal thermal load is higher than external thermal load because of denser
+               occupancy and a greater number of electrical and electronics appliances.
+
+               As per the climatic conditions of Mohali and the project partner requirements, it is decided to use a
+               Radiant Cooling System integrated with a Dedicated Outdoor Air System (DOAS) for cooling and
+               ventilation purposes respectively. As the occupancy is high, latent heat load is high inside and radiant
+               cooling system cannot take care of latent head load, DOAS is necessary.
+
+               Radiant Cooling System:
+               There are different types of radiant systems. But here we are using a Thermally Activated Building System
+               (TABS).
+
+               The Thermally Activated Building System (TABS) is a combined heating and cooling system with pipes
+               embedded in the structural concrete slabs or walls of multi-Storey buildings. TABS operates at
+               temperature close to ambient enabling more efficient utilization of renewable and free cooling sources.
+               Moreover, it provides optimized thermal indoor environment.
+
+
+
+
+
+
+
+
+
+
+
+                 Figure 58: Flow in typical DOAS                 Figure 57: Thermally Activated Building Systems
+                                                                 (TABS):
+
+
+               DOAS:
+
+               Radiant systems can only remove sensible loads from the building. To handle latent loads a DOAS needs
+               to be installed. A DOAS provides fresh dehumidified air to the building.
+
+               An Energy Recovery Wheel (ERW) or Enthalpy wheel is also to be used in DOAS to utilize the useful energy
+               from the return air. Rather than discard used building air, an enthalpy wheel salvages useful energy and
+               transfers it to incoming, fresh air.]]></page><page Index="48"><![CDATA[The summary of design load calculations and system sizing is given below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Figure 59: HVAC System Design Load and System Sizing Summary]]></page><page Index="49"><![CDATA[HVAC Single Line Diagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Figure 60: HVAC Single Line Diagram - Section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               Figure 61: HVAC Single Line Diagram - Plan]]></page><page Index="50"><![CDATA[Electrical System
+
+               On grid solar power plant of capacity 150 kWp will be installed. The single line diagram of each floor is
+               shown and power consumption of each floor is mentioned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Figure 62: Electrical Single Line Diagram]]></page><page Index="51"><![CDATA[10.  PITCH YOUR PROJECT PARTNER
+
+
+               What are we proposing?
+               The proposal contains a design ready net zero energy and water building, it does not only support to sustain
+               the environment in which we live but also provides resources for our daily needs without being exploiting
+               it from the mother nature. The additional benefits are towards operational cost reduction by reducing the
+               energy demand to significant amount.
+
+               How have we achieved this?
+               The steps towards a net zero energy and water building started with the understanding of site climate,
+               design requirements, available renewable resources, and economic benefits towards operational expenses.
+
+                The  provided  solutions  are  the  practical  integration  of  different  functional  components  towards  the
+               requirements.
+
+               Steps towards achieving a net zero energy building.
+
+                   •  Design considerations from the very beginning.
+                              The design considerations from the initial stages helps reduce the additional cost which we need
+               to put in the construction and get back as payback later. The earlier you start considering the net zero
+               energy approach the easy and economical it will achieve it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Figure 63: Orientation and Envelop Analysis from initial design stages
+
+
+
+                   •  Façade and envelope optimization for reducing the heat and lighting load.
+                       Energy demand calculations are done at initial stages which acts as benchmark and it is reduced to
+                       match the energy generation through optimized fenestration ratio and efficient building envelop.]]></page><page Index="52"><![CDATA[Figure 64: Facade fenestration and envelope optimization through shading and reducing window-wall ratio.
+               These are the initial load reduction by design considerations which helps to achieve lower operational
+               costs.
+
+               Steps towards achieving a net zero water building.
+
+                   •  On-site resource calculations
+
+                                 Available amount of annual rainwater harvesting is calculated and and is compared with the
+               demand and recycled water is supplied to possible area
+
+                   •  Reduction techniques
+
+                              To match the demand with the harvested amount of rainwater water efficient fixtures are used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             Figure 65: Water Cycle, Collection and Demand
+
+               Cost analysis
+               The operational cost has a significant share in the life cycle cost of the building, since Infosys owns and
+               operates the building, its beneficial to pay lower operational cost throughout the life of building with
+               nominal additional construction expenses.
+
+               For office typology of buildings, the operational costs are more significant as its important to achieve the
+               required level of comfort to create a healthy and comfortable environment.]]></page><page Index="53"><![CDATA[11.   APPENDIX B]]></page><page Index="54"><![CDATA[]]></page></pages></Search>
